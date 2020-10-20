@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212446031183",
+    "firebase_url": "https://whbook-cc87d.firebaseio.com",
+    "project_id": "whbook-cc87d",
+    "storage_bucket": "whbook-cc87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212446031183:android:49b9cb54d6409046e1a93a",
+        "android_client_info": {
+          "package_name": "com.whbooks.coolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212446031183-fibce1v0j6kkjv2utbuoupr4rbv1knqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPpq-yhALmUf9lNVgM3znz5MfncJj8K8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212446031183-fibce1v0j6kkjv2utbuoupr4rbv1knqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212446031183-p3i6uijt8im5ijn0b8ihjmtkkeggo3nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whbooks.coolapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
